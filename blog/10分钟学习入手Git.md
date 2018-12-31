@@ -1,0 +1,13 @@
+#git命令
+- git clone
+- git init
+- git add ./git add 文件名
+- git commint -am '记录语言'
+- git push origin master/git push
+- git pull
+- git remote -v
+- git remote add xxx 一个SSH地址
+- git push xxx master
+- git remote remove xxx
+- git remote rename xxx xxx1
+- git remote set-url xxx 一个SSH地址
