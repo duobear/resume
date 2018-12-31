@@ -12,5 +12,10 @@
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+|姓名|性别|手机号|
+|--|--|--|
+|zqf|女|110|
+|zqf|女|110|
+|zqf|女|110|
 
 
